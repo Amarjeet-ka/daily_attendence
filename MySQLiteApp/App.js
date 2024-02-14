@@ -5,7 +5,7 @@ import RegisterCandidateScreen from './Screens/RegisterCandidateScreen';
 import StudentListScreen from './Screens/StudentListScreen';
 import MarkAttendanceScreen from './Screens/MarkAttendanceScreen';
 import DeleteCandidateScreen from './Screens/DeleteCandidateScreen';
-import Home from './Screens/Home'; // Import your Home component
+import Home from './Screens/Home'; 
 import { initDatabase } from './Database';
 import DailyAttendanceListScreen from './Screens/DailyAttendanceListScreen';
 
